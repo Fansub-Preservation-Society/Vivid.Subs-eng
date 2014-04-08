@@ -4,3 +4,6 @@
 [submodule "joint/Unlimited Translation Works"]
 	path = joint/Unlimited Translation Works
 	url = https://github.com/Fansub-Preservation-Society/joint_UTW-Vivid-eng.git
+[submodule "joint/EveTaku"]
+	path = joint/EveTaku
+	url = https://github.com/Fansub-Preservation-Society/joint_Vivid-Taku-eng.git
