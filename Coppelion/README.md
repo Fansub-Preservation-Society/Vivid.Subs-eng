@@ -1,14 +1,14 @@
 Credits
 =======
-Translation: Viz
-Translation Check: Futsuu (1, 3, 6-12), fnord (2, 4-5)
-Editing: Kyhz
-Timing: unanimated, Xythar (11)
-Typesetting: unanimated
-Song Translation: fnord, Futsuu
-Song Typesetting: unanimated
-Encoding: furzi
-Quality Check: Devana (1-9), Xythar
+* Translation: Viz
+* Translation Check: Futsuu (1, 3, 6-12), fnord (2, 4-5)
+* Editing: Kyhz
+* Timing: unanimated, Xythar (11)
+* Typesetting: unanimated
+* Song Translation: fnord, Futsuu
+* Song Typesetting: unanimated
+* Encoding: furzi
+* Quality Check: Devana (1-9), Xythar
 
 Fonts Used
 ==========

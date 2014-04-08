@@ -1,14 +1,14 @@
 Credits
 =======
-Translation: Crunchyroll
-Translation Check: Futsuu
-Editing: Xythar
-Timing: Konbu, unanimated (12)
-Typesetting: unanimated
-Song Translation: fnord
-Song Typesetting: unanimated
-Encoding: Xythar
-Quality Check: Devana (1-9), Xythar
+* Translation: Crunchyroll
+* Translation Check: Futsuu
+* Editing: Xythar
+* Timing: Konbu, unanimated (12)
+* Typesetting: unanimated
+* Song Translation: fnord
+* Song Typesetting: unanimated
+* Encoding: Xythar
+* Quality Check: Devana (1-9), Xythar
 
 Fonts Used
 ==========

@@ -1,14 +1,14 @@
 Credits
 =======
-Translation: Futsuu (1-4, 6-8), Funi (4-5, 9-12)
-Translation Check: Futsuu (4-5, 9-12)
-Editing: Xythar
-Timing: archdeco, Konbu (3, 4), torchlight (5), Xythar (12)
-Typesetting: unanimated
-Song Translation: fnord, Futsuu
-Song Typesetting: Xythar (OP karaoke by lyger)
-Encoding: Xythar
-Quality Check: Devana, Xythar
+* Translation: Futsuu (1-4, 6-8), Funi (4-5, 9-12)
+* Translation Check: Futsuu (4-5, 9-12)
+* Editing: Xythar
+* Timing: archdeco, Konbu (3, 4), torchlight (5), Xythar (12)
+* Typesetting: unanimated
+* Song Translation: fnord, Futsuu
+* Song Typesetting: Xythar (OP karaoke by lyger)
+* Encoding: Xythar
+* Quality Check: Devana, Xythar
 
 Fonts Used
 ==========
