@@ -1,3 +1,6 @@
 [submodule "joint/Underwater"]
 	path = joint/Underwater
 	url = https://github.com/Fansub-Preservation-Society/joint_Underwater-Vivid-eng.git
+[submodule "joint/Unlimited Translation Works"]
+	path = joint/Unlimited Translation Works
+	url = https://github.com/Fansub-Preservation-Society/joint_UTW-Vivid-eng.git
